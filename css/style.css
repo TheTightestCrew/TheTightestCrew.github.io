@@ -13,6 +13,20 @@ body{
 		border: solid;
 	background-color: #26AADD;
 	}
+	.crimefest{
+	
+	font-family: "Times New Roman";
+	width: 30%;
+	border: solid;
+	background-color: #046B92;
+
+}
+	.info2{
+	background-color: #046B92;
+	border: solid;
+	width: 75% ;
+	
+	}
 .prayer{
 	
 	font-family: "Times New Roman";
@@ -34,6 +48,12 @@ body{
 	border: solid;
 	clear: both;
 }
+	.info{
+	background-color: #046B92;
+	border: solid;
+	width: 75% ;
+	
+	}
 
 	.links{
 		float: right;

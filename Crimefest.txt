@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><link href = "css/style.css" type = "text/css" rel = "stylesheet" />
+<div class ="crimefest"><h1><u> Crimefest </u> <title> Crimefest</title> </h1> </head></div>
+<body> 
+
+<div class="info2"><p> Crimefest is a holiday celebrating the worship of Almir, and the life of Yung Lean. 
+It is a holiday that lasts several weeks in October. During crimefest, 
+Almir showers his worshipers with love and DLC. Almir worshipers and Rabi of the Synagogue of DLC alike worship the 
+god during these weeks. It is one of the most important holidays in the Church of Almir, besides the birth of Yung Lean of
+ course. Festivities occur in major cities and where the influence of Almirism is strong. Many heathens do not know the
+ name of Almir. Crimefest is a time to spread his word of his glory. Prominent members of the Almirism community go door to door 
+ spreading the gospel of Almir.
+They show the pitiful heathens and pagans that Almir is the true god. They show that Yung Lean is the true messiah.</p></div></body>
+</html>
