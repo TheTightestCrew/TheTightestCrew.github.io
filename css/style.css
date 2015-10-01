@@ -19,6 +19,7 @@ body{
 	border: solid;
 	width: 65% ;
 	font-family: "Times New Roman";
+		padding: 50px;
 
 	
 }
@@ -29,10 +30,16 @@ body{
 
 	
 }
+		.gaben2{
+	background-color: #046B92;
+	border: solid;
+	width: 75% ;
+	
+	}
  .almir1{
 	background-color: #046B92;
 	border: solid;
-	width: 12% ;
+	width: 35% ;
 
 	
 }
@@ -72,7 +79,7 @@ body{
 	.info2{
 	background-color: #046B92;
 	border: solid;
-	width: 75% ;
+	width: 70% ;
 	padding: 50px;
 	
 	}
