@@ -7,6 +7,23 @@ body{
 	background-color: #25715A;
 	font-family: "Times New Roman";
 }
+.earlylife{
+	width:65%;
+	background-color: #046B92;
+	border: solid;
+
+}
+.earlylife2{
+	width:80%;
+	background-color: #046B92;
+	border: solid;
+
+}
+.thestory{
+	background-color: #046B92;
+	border: solid;
+	width: 50%;
+}
 .thesales{
 	background-color: #046B92;
 	border: solid;
@@ -34,6 +51,7 @@ body{
 	background-color: #046B92;
 	border: solid;
 	width: 75% ;
+	padding:15px ;
 	
 	}
  .almir1{
