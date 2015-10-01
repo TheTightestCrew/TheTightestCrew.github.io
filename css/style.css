@@ -29,13 +29,31 @@ body{
 
 	
 }
- .Almir1{
+ .almir1{
 	background-color: #046B92;
 	border: solid;
 	width: 12% ;
 
 	
 }
+.almir2{
+	background-color: #046B92;
+	border: solid;
+	width:25%;
+}
+.almir3{
+	background-color: #046B92;
+	border: solid;
+	width:65%;
+	
+}
+.linkalmir{
+		float: right;
+		width: 20%;
+		border: solid;
+	background-color: #26AADD;
+	
+	}
 .linksprayer{
 		float: right;
 		width: 20%;
