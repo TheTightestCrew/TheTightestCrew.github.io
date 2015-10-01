@@ -54,52 +54,71 @@ body{
 	width: 75% ;
 	
 	}
+	.listmain{
+		background-color: #26AADD;
+	border: solid;
+	float: right;
+		
+	}
 
-	.links{
+		.linkscrimefest{
 		float: right;
 		width: 20%;
 		border: solid;
 	background-color: #26AADD;
 	}
-.border{
+	.linksmain{
+		float: right;
+		width: 20%;
+		border: solid;
+	background-color: #26AADD;
+	}
+.bordermain{
 	background-color: #046B92;
 	border: solid;
 	width: 12% ;
 	
 	}
 		
-		.bordera{
+		.borderamain{
 	background-color: #046B92;
 	border: solid;
 	width: 75% ;
 	
 	}
-	.border1{
+	.namemain{
+		background-color: #046B92;
+	border: solid;
+	width: 65%;
+	clear: both
+		
+	}
+	.border1main{
 	background-color: #046B92;
 	border: solid;
 	width: 25% ;
 	clear: both;
 	
 	}
-		.border2{
+		.border2main{
 	background-color: #046B92;
 	border: solid;
 	width: 75% ;
 	
 	}
-		.border3{
+		.border3main{
 	background-color: #046B92;
 	border: solid;
 	width: 75% ;
 	
 	}
-			.border4{
+			.border4main{
 	background-color: #046B92;
 	border: solid;
 	width: 75% ;
 	
 	}
-		.border5{
+		.border5main{
 	background-color: #046B92;
 	border: solid;
 	width: 75%;
