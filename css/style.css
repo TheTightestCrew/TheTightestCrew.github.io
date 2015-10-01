@@ -7,11 +7,41 @@ body{
 	background-color: #25715A;
 	font-family: "Times New Roman";
 }
+.thesales{
+	background-color: #046B92;
+	border: solid;
+	width: 12% ;
+
+	
+}
+.thesales2{
+	background-color: #046B92;
+	border: solid;
+	width: 65% ;
+	font-family: "Times New Roman";
+
+	
+}
+.gaben{
+	background-color: #046B92;
+	border: solid;
+	width: 12% ;
+
+	
+}
+ .Almir1{
+	background-color: #046B92;
+	border: solid;
+	width: 12% ;
+
+	
+}
 .linksprayer{
 		float: right;
 		width: 20%;
 		border: solid;
 	background-color: #26AADD;
+	
 	}
 	.crimefest{
 	
@@ -25,12 +55,13 @@ body{
 	background-color: #046B92;
 	border: solid;
 	width: 75% ;
+	padding: 50px;
 	
 	}
 .prayer{
 	
 	font-family: "Times New Roman";
-	width: 30%;
+	width: 65%;
 	border: solid;
 	background-color: #046B92;
 
@@ -39,7 +70,7 @@ body{
 	background-color: #046B92;
 	border: solid;
 	width: 12% ;
-	border: solid;
+	
 }
 .tightaf{
 	background-color: #046B92;
