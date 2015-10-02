@@ -47,6 +47,19 @@ body{
 
 	
 }
+.mainforbidden{
+	background-color: #046B92;
+	width:65%;
+	border: solid;
+	font-family: "Times New Roman";
+	padding:5px;
+}
+.almirCrime{background-color: #046B92;
+	border: solid;
+	width: 65% ;
+padding: 25px;
+	font-family: "Times New Roman";
+}
 .titlegodd{
 	width:25%;
 	border: solid;
@@ -175,8 +188,9 @@ body{
 	.namemain{
 		background-color: #046B92;
 	border: solid;
-	width: 65%;
-	clear: both
+	width: 26%;
+	clear: both;
+	
 		
 	}
 	.border1main{
