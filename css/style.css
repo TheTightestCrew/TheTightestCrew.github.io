@@ -31,6 +31,13 @@ body{
 
 	
 }
+.godd{
+	background-color: #046B92;
+	border: solid;
+	width: 65% ;
+	padding:50px;
+	font-family: "Times New Roman";
+}
 .thesales2{
 	background-color: #046B92;
 	border: solid;
@@ -39,6 +46,11 @@ body{
 		padding: 50px;
 
 	
+}
+.titlegodd{
+	width:25%;
+	border: solid;
+	background-color: #046B92;
 }
 .gaben{
 	background-color: #046B92;
