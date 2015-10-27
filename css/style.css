@@ -43,6 +43,13 @@ body{
 	padding:50px;
 	font-family: "Times New Roman";
 }
+.final2{
+	background-color: #138A00;
+	border: solid;
+	width: 65% ;
+	padding:5px;
+	font-family: "Times New Roman";
+}
 .thesales2{
 	background-color: #138A00;
 	border: solid;
@@ -74,6 +81,13 @@ padding: 25px;
 	background-color: #138A00;
 	border: solid;
 	width: 20% ;
+
+	
+}
+.final{
+	background-color: #138A00;
+	border: solid;
+	width: 30% ;
 
 	
 }
